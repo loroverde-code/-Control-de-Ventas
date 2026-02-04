@@ -1,5 +1,5 @@
 const app=document.getElementById("app");
-let usuarioActual="admin";
+let usuarioActual="Maricela";
 
 function loginPantalla(){
   app.innerHTML=`
