@@ -1,5 +1,5 @@
 function getUsers(){
-  return JSON.parse(localStorage.getItem("users") || '{"admin":"1234"}');
+  return JSON.parse(localStorage.getItem("users") || '{"Maricela":"8322"}');
 }
 
 function login(user, pass){
